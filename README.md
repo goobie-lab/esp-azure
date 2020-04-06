@@ -1,3 +1,4 @@
+# 구비에게서 얻은 SDK임. esp-idf 3.3.1과 검증함.
 # ESP Azure IoT SDK
 
 ## Table of Contents
